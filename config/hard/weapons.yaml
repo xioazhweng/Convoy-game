@@ -1,0 +1,4 @@
+weapons:
+  - id: 1202
+    type: cannon
+    current_ammunition: 60

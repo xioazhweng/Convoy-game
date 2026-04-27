@@ -1,0 +1,116 @@
+---
+ships:
+  - type: military
+    callsign: P1
+    captain: Edward Teach
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P2
+    captain: Jack Rackham
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P3
+    captain: Bartholomew Roberts
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P4
+    captain: William Kidd
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P5
+    captain: Henry Avery
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P6
+    captain: Charles Vane
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P7
+    captain: Anne Bonny
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P8
+    captain: Samuel Bellamy
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P9
+    captain: Thomas Tew
+    current_velocity: 0
+    current_HP: 1000
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: I1
+    captain: Jonh
+    current_velocity: 7
+    current_HP: 1000
+    params:
+      {}
+  - type: transport
+    callsign: I2
+    captain: Lola
+    current_velocity: 3
+    current_HP: 500
+    params:
+      current_cargo_weight: 0
+      max_cargo_weight: 1000
+  - type: transport_military
+    callsign: I3
+    captain: Larisa
+    current_velocity: 5
+    current_HP: 500
+    params:
+      current_cargo_weight: 0
+      max_cargo_weight: 500
+...

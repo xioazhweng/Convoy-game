@@ -1,0 +1,5 @@
+add_subdirectory(point)
+add_subdirectory(place)
+add_subdirectory(weapon)
+add_subdirectory(ship)
+add_subdirectory(repository)

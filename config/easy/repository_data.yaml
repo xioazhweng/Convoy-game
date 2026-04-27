@@ -1,0 +1,38 @@
+repository:
+    - callsign: P1
+      x: 75
+      y: 25
+      side: pirates
+    - callsign: P2
+      x: 77
+      y: 27
+      side: pirates
+    - callsign: P3
+      x: 77
+      y: 23
+      side: pirates
+    - callsign: P4
+      x: 82
+      y: 32
+      side: pirates
+    - callsign: P5
+      x: 80
+      y: 30
+      side: pirates
+    - callsign: P6
+      x: 82
+      y: 28
+      side: pirates
+    - callsign: P7
+      x: 70
+      y: 20
+      side: pirates
+    - callsign: P8
+      x: 72
+      y: 22
+      side: pirates
+    - callsign: P9
+      x: 72
+      y: 18
+      side: pirates
+

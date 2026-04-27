@@ -1,0 +1,1 @@
+add_library(dto INTERFACE ShipDto.h WeaponDto.h ShipUnitDto.h GameStateDto.h)

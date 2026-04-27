@@ -1,0 +1,6 @@
+---
+weapons:
+  - id: 55181
+    type: cannon
+    current_ammunition: 0
+...

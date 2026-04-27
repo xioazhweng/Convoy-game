@@ -1,0 +1,29 @@
+---
+mission:
+  budget: 9500
+  spent_budget: 5500
+  total_cargo_weight: 3000
+  goal_weight: 2500
+  lost_weight: 0
+  delivered_weight: 0
+  bases:
+    a_base:
+      x: 0
+      y: 0
+    b_base:
+      x: 100
+      y: 50
+  pirates_bases:
+    - x: 75
+      y: 25
+    - x: 80
+      y: 30
+    - x: 70
+      y: 20
+  map:
+    dx: 150
+    dy: 100
+    center:
+      x: 50
+      y: 25
+...

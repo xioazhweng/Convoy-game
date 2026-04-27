@@ -1,0 +1,48 @@
+---
+ships:
+  - type: military
+    callsign: P1
+    captain: Blackbeard
+    current_velocity: 0
+    current_HP: 600
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P2
+    captain: Rackham
+    current_velocity: 0
+    current_HP: 600
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: P3
+    captain: AnneBonny
+    current_velocity: 0
+    current_HP: 600
+    params:
+      bow: 55181
+      portside: 55181
+      starboard: 55181
+      stern: 55181
+  - type: military
+    callsign: fd
+    captain: fd
+    current_velocity: 7
+    current_HP: 600
+    params:
+      {}
+  - type: transport
+    callsign: 6
+    captain: 6
+    current_velocity: 3
+    current_HP: 400
+    params:
+      current_cargo_weight: 0
+      max_cargo_weight: 1
+...

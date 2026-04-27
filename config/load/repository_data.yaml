@@ -1,0 +1,23 @@
+---
+repository:
+  - callsign: fd
+    x: 35
+    y: 25
+    side: imperial
+  - callsign: 6
+    x: 36
+    y: 32
+    side: imperial
+  - callsign: P1
+    x: 75
+    y: 25
+    side: pirate
+  - callsign: P2
+    x: 80
+    y: 30
+    side: pirate
+  - callsign: P3
+    x: 70
+    y: 20
+    side: pirate
+...

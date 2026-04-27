@@ -1,0 +1,19 @@
+ships:
+  transport:
+    max_velocity: 3
+    max_HP: 500
+    cost: 1500
+    max_cargo_weight: 1200
+
+  military:
+    max_velocity: 7
+    max_HP: 1000
+    cost: 1000
+
+  transport_military:
+    max_velocity: 5
+    max_HP: 500
+    cost: 2000
+    max_cargo_weight: 700
+
+    

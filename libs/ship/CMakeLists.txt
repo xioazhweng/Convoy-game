@@ -1,0 +1,3 @@
+add_subdirectory(military_ship)
+add_subdirectory(transport_ship)
+add_subdirectory(transportmilitary_ship)

@@ -1,0 +1,2 @@
+add_library(attack_strategy INTERFACE AttackStrategy.h)
+target_link_libraries(attack_strategy INTERFACE mission_repo point)

@@ -1,0 +1,21 @@
+weapons:
+  cannon:
+    fire_rate: 10
+    fire_range: 30
+    max_ammunition: 60
+    cost: 100
+    damage: 50
+
+  missile:
+    fire_rate: 40
+    fire_range: 40
+    max_ammunition: 120
+    cost: 300
+    damage: 100
+
+  torpedo:
+    fire_rate: 200
+    fire_range: 60
+    max_ammunition: 400
+    cost: 500
+    damage: 150

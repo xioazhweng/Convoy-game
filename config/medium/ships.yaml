@@ -1,0 +1,91 @@
+ships:
+  - type: military
+    callsign: P1
+    captain: Edward Teach
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
+  - type: military
+    callsign: P2
+    captain: Jack Rackham
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
+  - type: military
+    callsign: P3
+    captain: Bartholomew Roberts
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
+  - type: military
+    callsign: P4
+    captain: William Kidd
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
+  - type: military
+    callsign: P5
+    captain: Henry Avery
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
+  - type: military
+    callsign: P6
+    captain: Charles Vane
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
+  - type: military
+    callsign: P7
+    captain: Anne Bonny
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
+  - type: military
+    callsign: P8
+    captain: Samuel Bellamy
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
+  - type: military
+    callsign: P9
+    captain: Thomas Tew
+    current_velosity: 0
+    current_HP: 1000
+    params:
+        bow: 1202
+        stern: 1202
+        starboard: 1202
+        portside: 1202
