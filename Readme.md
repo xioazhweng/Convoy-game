@@ -2,6 +2,11 @@
 
 Небольшая игра военного конвоя, доставляющего ценный груз под охраной военных кораблей.
 
+
+![main_view](https://github.com/xioazhweng/Convoy-game/blob/main/preview/1.png?raw=true)
+
+![game_view](https://github.com/xioazhweng/Convoy-game/blob/main/preview/2.png?raw=true)
+
 ## Возможности
 
 - Покупка кораблей и вооружения в рамках бюджета
